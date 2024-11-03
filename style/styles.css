@@ -1,0 +1,97 @@
+#container{
+    color:rgb(5, 236, 151);
+}
+
+p{
+    color:rgb(44, 44, 232);
+}
+
+.text{
+    color: rgb(249, 74, 5);
+}
+
+p.text{
+    color:blueviolet;
+}
+/*
+body div p{
+    color:orange
+}
+
+body p {
+    color: blue;
+}
+
+button {
+    background-color: white;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer; 
+}
+
+.button:hover{
+    background-color: red;
+    color:brown; 
+}
+
+.entrada:focus{
+    border-color: blueviolet;
+} 
+p{
+    color:blue;
+}
+
+.text{
+    color: red;
+}
+
+#container{
+    color:green;
+}
+
+.highlight{
+    color:orange;
+}
+
+p.text{
+    color:purple;
+}
+
+a:hover{
+    color:yellowgreen;
+}
+
+button[class~="btn-primary"]{
+    color:aliceblue;
+    background-color: darkblue;
+}
+
+.highlight{
+    color:black !important;
+}
+
+#container p{
+    color:chocolate;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
